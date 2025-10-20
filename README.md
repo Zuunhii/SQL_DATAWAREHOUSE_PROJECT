@@ -1,2 +1,2 @@
 # SQL_DATAWAREHOUSE_PROJECT
-personal project
+studied from Data with Baraa
