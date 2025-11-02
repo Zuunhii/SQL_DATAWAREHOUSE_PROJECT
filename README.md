@@ -11,8 +11,6 @@ Thông qua dự án này, người thực hiện áp dụng kiến trúc **Medal
 
 Dự án được xây dựng theo mô hình **Medallion Architecture**:
 
-![Data Architecture](docs/data_architecture.png)
-
 1. **Bronze Layer** – Lưu trữ dữ liệu thô (raw data) được nạp trực tiếp từ các file CSV vào cơ sở dữ liệu SQL Server.  
 2. **Silver Layer** – Lớp làm sạch, chuẩn hóa và biến đổi dữ liệu, chuẩn bị cho quá trình phân tích.  
 3. **Gold Layer** – Lưu trữ dữ liệu đã sẵn sàng cho nghiệp vụ, được mô hình hóa theo **Star Schema** phục vụ báo cáo và phân tích kinh doanh.
