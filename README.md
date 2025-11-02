@@ -44,28 +44,27 @@ Các hạng mục chính trong dự án:
 
 ## 📂 Cấu trúc Thư mục
 
+```text
 data-warehouse-project/
 │
-├── datasets/ # Dữ liệu gốc (ERP và CRM)
+├── datasets/                # Dữ liệu gốc (ERP và CRM)
 │
-├── docs/ # Tài liệu dự án và sơ đồ kiến trúc
-│ ├── data_architecture.png
-│ ├── data_catalog_gold.md
-│ ├── data_models.drawio
+├── docs/                    # Tài liệu dự án và sơ đồ kiến trúc
+│   ├── data_architecture.png
+│   ├── metadata.md
+│   ├── data_models.drawio
 │
-├── scripts/ # Các script SQL cho ETL và mô hình hóa dữ liệu
-│ ├── bronze/
-│ ├── silver/
-│ ├── gold/
+├── scripts/                 # Các script SQL cho ETL và mô hình hóa dữ liệu
+│   ├── bronze/
+│   ├── silver/
+│   ├── gold/
 │
-├── README.md # Giới thiệu dự án
-└── LICENSE
+├── README.md                # Giới thiệu dự án
+└── LICENSE                  # Thông tin bản quyền
 
-yaml
-Sao chép mã
 
+```
 ---
-
 ## 🌟 Ghi chú
 
 Đây là dự án được thực hiện **với mục đích học tập cá nhân**, mình học dựa trên hướng dẫn từ kênh [**Data with Baraa**](https://www.youtube.com/@datawithbaraa).  
