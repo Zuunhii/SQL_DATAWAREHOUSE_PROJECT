@@ -70,9 +70,5 @@ Sao chép mã
 
 ## 🌟 Ghi chú
 
-Dự án được thực hiện **với mục đích học tập cá nhân**, dựa trên hướng dẫn từ kênh [**Data with Baraa**](https://www.youtube.com/@datawithbaraa).  
+Đây là dự án được thực hiện **với mục đích học tập cá nhân**, mình học dựa trên hướng dẫn từ kênh [**Data with Baraa**](https://www.youtube.com/@datawithbaraa).  
 Tác giả video đã mang đến nguồn kiến thức thực tế, rõ ràng và hữu ích cho cộng đồng học dữ liệu.
-
----
-
-📚 *Trong tương lai, dự án sẽ được mở rộng thêm các thành phần như tự động hóa pipeline bằng Airflow/dbt, bổ sung lineage và metadata cho lớp Gold để hoàn thiện hơn.*
